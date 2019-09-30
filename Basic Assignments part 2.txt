@@ -1,0 +1,126 @@
+Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
+
+Example 1:
+Input: 121
+Output: true
+
+Example 2:
+Input: -121
+Output: false
+Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
+
+Example 3:
+Input: 10
+Output: false
+Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Given a string, you need to reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.
+
+Example 1:
+Input: "Let's take LeetCode contest"
+Output: "s'teL ekat edoCteeL tsetnoc"
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Take 10 inputs
+Identify a Palindrome
+Count the chars in it
+And sort in descending order of chars
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+Given an array of integers and an integer k, find out whether there are two distinct indices i and j in the 
+array such that nums[i] = nums[j] and the absolute difference between i and j is at most k.
+
+---------------------------------------------------------------------------------------------------------------
+Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array.
+
+Example 1:
+
+Input: [3,0,1]
+Output: 2
+Example 2:
+
+Input: [9,6,4,2,3,5,7,0,1]
+Output: 8
+
+---------------------------------------------------------------------------------------------------------------
+
+Clone the repository at https://github.com/Grinnell-CSC195/hw1.
+
+Add a file to the participants directory that describes you.
+
+Use git add to add that file to the repository.
+
+Use git commit to commit your change. Use a meaningful message like "Added information about YOUR NAME HERE."
+
+Use git push to send your change to the primary repository.
+
+Look online to see if your change has been pushed.
+
+Wait until your partner has pushed their update. Then use git pull to get their change into your repository. Verify that you have the new file.
+
+Use git log or git log | less to see a list of changes to the repository.
+
+Edit the file participants.md to add your name. Then add the file, commit it, and push it.
+
+Whoever tries to push the file first will likely succeed. Whoever tries to push the file second will likely get an error message. Figure out how to resolve the error message.
+
+In the code directory, there is a program that lists the members of this class. Update participants.c so that it prints your name, too. (Follow the pattern of the file.) Make sure that your program works by typing make and then ./participants. Then, add the file, commit it, and push it.
+
+Deal with any conflicts that have arisen and commit the result.
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+Write a program to accept an array of names and a name and check whether the name is present in the array. Return the count of occurrence. Use the following array as input
+{“Dave”, “Ann”, “George”, “Sam”, “Ted”, “Gag”, “Saj”, “Agati”, “Mary”, “Sam”, “Ayan”, “Dev”, “Kity”, “Meery”, “Smith”, “Johnson”, “Bill”, “Williams”, “Jones”, “Brown”, “Davis”, “Miller”, “Wilson”, “Moore”, “Taylor, “Anderson”, “Thomas”, “Jackson”}
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Write a program to input a word from the user and remove the duplicate characters present in it.
+Example:
+INPUT – abcabcabc
+OUTPUT – abc
+INPUT – javaforschool
+OUTPUT – javforschl
+INPUT – Mississippi
+OUTPUT – Misp
+
+---------------------------------------------------------------------------------------------------------------------
+
+Write a program to accept a sentence from the user and perform the following task:
+a. Accept the sentence and reduce all the extra blank space between two words to a single blank space.
+b. Accept a word from the user which is part of the sentence along with its position number and delete the word and display the sentence.
+
+Test your program with the sample data and some random data:
+
+Example 1
+INPUT:  A    MORNING WALK IS A IS BLESSING FOR   THE  WHOLE DAY.
+WORD TO BE DELETED: IS
+WORD POSITION IN THE SENTENCE: 6
+OUTPUT: A MORNING WALK IS A BLESSING FOR THE WHOLE DAY.
+Example 2
+INPUT: AS YOU    SOW, SO   SO YOU REAP.
+WORD TO BE DELETED: SO
+WORD POSITION IN THE SENTENCE: 4
+OUTPUT:      AS YOU SOW, SO YOU REAP
+
+--------------------------------------------------------------------------------------------------------------------
+
+Write a program to find if a particular element is present in a multi-dimensional array.
+
+--------------------------------------------------------------------------------------------------------------------
+
+Write a Java assignment statement to calculate a 35% discount on an item’s value stored in the variable newItem, store the discount amount in a variable called discount. Then calculate the new price for the item subtracting off the discount, storing the new price in a variable called newItemPrice.
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+

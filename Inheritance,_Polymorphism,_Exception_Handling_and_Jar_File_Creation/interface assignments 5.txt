@@ -1,0 +1,17 @@
+Define interface "A" with "disp1()" method.
+Derive from "A", interface "B" with "disp2" method.
+Derive class "C" , from "B".
+Instantiate class "C" and call its members as well as derived from parent interfaces.
+
+-------------------------------------------------------------------------------------------------------------------------
+create interface "Game" , have an abstract method "play()". from this interface define "Cricket" , "FootBall" and "Tennis".
+Now Define one more class 
+public class Demo
+In this class have a method "perform" which will take interface reference as parameter.inside "perform()" see to it that any child object passed ,its "play()" method should be invoked.
+
+
+----------------------------------------------------------------------------------------------------------------
+
+Define an interface “Vechicle” with “start()” function . Now derive  classes like “TwoWheeler”, “ThreeWheeler”,”FourWheeler” etc. from “Vehicle” and override “start()” function. Define a class “VDemo” in which  write  main()  function. In the main function create an array of Vehicle class. In this array store instances of the sub classes. Traverse through the array and  call “start()” function only if there is a class “ThreeWheeler”.
+
+

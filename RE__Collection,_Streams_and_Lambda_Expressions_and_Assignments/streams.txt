@@ -1,0 +1,26 @@
+Design a Java application  to generate 100 random Integers between 1 and 49 and write them in a text file named boy.txt, one number per line.
+Then read the 100 Integers from the test.txt text file and place them into a Java collection. The application should then (in this order):
+
+- eliminate duplicates
+
+- sort the collection
+
+- display the sorted collection on the screen
+
+Name your Java file Result.java. 
+
+--------------------------------------------------------------------------------------
+
+
+Write the following methods that return a lambda expression performing a specified action:
+
+PerformOperation is Odd(): The Lambda expression must return true if a number is odd or false if it is even
+
+PerformOperation isPrime(): The lambda expression must return true if a number is prime or false if it is composite
+
+PerformOperation isPalindrome(): The lambda expression must return true if a number is a palindrome or false if it is not.
+
+------------------------------------------------------------------------------------
+
+Write a Java Application to create a list of integers using Lamda expression . The application should 1.Display all integers in list  2. Display all even numbers in the list 3. Display all odd numbers in the list 4. Display all numbers that are divisible by 6. 5.Display all numbers that are less than 12. 6.Display all numbers that are greater than 50.
+

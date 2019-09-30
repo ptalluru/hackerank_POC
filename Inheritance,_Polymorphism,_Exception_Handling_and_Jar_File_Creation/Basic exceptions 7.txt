@@ -1,0 +1,15 @@
+write a class Factorial which has service method int getFactorial(int num) which returns the factorial of a number num.
+
+if the number given by the user is less than  2 then throw InvalidInputException.
+
+find what is the highest value of int and if the factorial answer exceeds the highest value  then throw FactorialException to the caller.
+--------------------------------------------------------------------------------------
+
+Create a class Student with attributes roll no, name, age and course. Initialize values through parameterized constructor. If age of student is not in between 15 and 21 then generate user-defined exception “AgeNotWithinRangeException”. If name contains numbers or special symbols raise exception “NameNotValidException”. Define the two exception classes.
+
+
+
+****************************************************************
+Use Google search and find out what is finally block?
+Why we should use finally block?
+and In which scenario the finally block does not get executed?

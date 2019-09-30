@@ -1,0 +1,63 @@
+Develop a program to maintain a list of homework assignments. When an assignment is assigned, add it to the list, and when it is completed, remove it from the list. You should keep track of the due date. Your program should provide the following services:
+
+1. Add a new assignment.
+2. Remove an assignment.
+3. Provide a list of the assignments in the order they were assigned.
+4. Find the assignment with the earliest due date.
+
+
+--------------------------------------------------------------------------------------------
+
+Write a Java application that displays today's date. You want the date to be displayed in the following format: week day, month, date, and year.
+
+More specifically you want your Java application to display the date in the following manner:
+
+Tuesday, October 12, 2010
+
+
+
+--------------------------------------------------------------------------------------
+
+Write a java program using class and object to accept a date in the string format dd/mm/yyyy. Check whether the date entered is valid or not. If it is valid, then input a certain number of days. Then calculate and print the future date after adding the given number of days if the future date is valid. If the date entered is invalid, then display a proper error message.
+Example
+Enter the date in (dd/mm/yyyy) format: 18/02/2014
+Entered Date: 18/02/2014
+Enter number of days after which future date is to be found: 2
+Future Date : 20/2/2014
+
+-----------------------------------------------------------------------------------
+
+Write a Program in Java using class and object to input a Date in ddmmyyyy 8-digit format and print it in:
+
+1) dd/mm/yyyy format
+2) dd, month name, yyyy format
+
+Example
+1) Enter any date in 8 digits (ddmmyyyy) format: 02052013
+Date in dd/mm/yyyy format = 02/05/2013
+Date in dd, month name, yyyy format = 02 May, 2013
+2) Enter any date in 8 digits (ddmmyyyy) format: 12111963
+Date in dd/mm/yyyy format = 12/11/1963
+Date in dd, month name, yyyy format = 
+12 November, 1963
+3) Enter any date in 8 digits (ddmmyyyy) format: 252013
+Wrong Input
+4) Enter any date in 8 digits (ddmmyyyy) format: 29022013
+The day, month or year are outside acceptable limit
+
+-------------------------------------------------------------------------------------------
+
+Write a program using class and object to accept a date in the string format dd/mm/yyyy and accept the name of the day on 1st of January of the corresponding year. Find the day for the given date.
+Example
+Date : 5/7/2001
+Day on 1st January : MONDAY
+OUTPUT: Day on 5/7/2001 :  THURSDAY
+-------------------------------------------------------------------------------------
+
+Write a program that prints how many days you have been alive.
+
+-------------------------------------------------------------------------------------
+
+List all Friday the 13th in the twentieth century.
+
+-------------------------------------------------------------------------------------
